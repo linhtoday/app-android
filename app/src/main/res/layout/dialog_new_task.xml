@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v7.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:background="#FDF8F8"
+    android:orientation="vertical"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    >
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <TextView
+            android:layout_marginBottom="8dp"
+            android:textStyle="italic|bold"
+            android:text="Nhập task"
+            android:textSize="15sp"
+            android:textColor="@color/colorPrimary"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+        <com.rengwuxian.materialedittext.MaterialEditText
+            android:layout_width="match_parent"
+
+            android:layout_height="wrap_content"
+            android:id="@+id/dialog_detail"
+            android:inputType="text"
+            android:layout_marginTop="10dp"
+
+            android:hint="Something.."/>
+
+        <Button
+            android:id="@+id/dialog_btn"
+            android:textColor="#ffffff"
+            android:background="@drawable/custom_button"
+            android:layout_gravity="center"
+            android:text="Xác nhận"
+            android:layout_width="150dp"
+            android:layout_height="wrap_content" />
+    </LinearLayout>
+
+</android.support.v7.widget.CardView>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+<android.support.v7.widget.CardView
+
+    android:layout_margin="5dp"
+    android:id="@+id/ll_user_suggest_item"
+    xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <de.hdodenhof.circleimageview.CircleImageView
+
+        android:layout_marginTop="10dp"
+        android:layout_marginBottom="10dp"
+        android:src="@drawable/ic_account_circle_24dp"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:id="@+id/user_suggest_avt"/>
+
+    <TextView
+        android:layout_gravity="center_vertical"
+        android:textColor="@color/colorPrimary"
+        android:textStyle="bold"
+        android:layout_marginLeft="60dp"
+        android:id="@+id/user_suggest_username"
+        android:textSize="25sp"
+        android:text="user name"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+    <!--<LinearLayout-->
+        <!--android:id="@+id/ll_user_suggest_item"-->
+        <!---->
+        <!---->
+        <!--android:orientation="vertical"-->
+        <!--android:layout_width="wrap_content"-->
+        <!--android:layout_height="wrap_content">-->
+
+        <!---->
+    <!--</LinearLayout>-->
+
+</android.support.v7.widget.CardView>

@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1038107533250",
+    "firebase_url": "https://app-android-82e49.firebaseio.com",
+    "project_id": "app-android-82e49",
+    "storage_bucket": "app-android-82e49.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1038107533250:android:2c0f3a95bbf2b8e9",
+        "android_client_info": {
+          "package_name": "com.meow.chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1038107533250-p2g0622jq276m642907u8foq2lu7d3ad.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.meow.chat",
+            "certificate_hash": "d8a4748ad950b022bfa82e575213fa0b19629aca"
+          }
+        },
+        {
+          "client_id": "1038107533250-scbb70pdq4g3cenmjru7632uv1334ijc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOQ1yfdUi1f2d4eyXQOvCn0J-CLTgdMJs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1038107533250-scbb70pdq4g3cenmjru7632uv1334ijc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

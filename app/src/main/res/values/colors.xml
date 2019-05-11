@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="online">#08FF28</color>
+    <color name="chinh">#EBCB0A</color>
+    <color name="offline">#A8B6C5</color>
+    <color name="offliness">#9EC1E9</color>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#008577</color>
+    
+    
+    <color name="textTabLight">#F0C2D1</color>
+    <color name="textTabBright">#ffffff</color>
+
+</resources>
